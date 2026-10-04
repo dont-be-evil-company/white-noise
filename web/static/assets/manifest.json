@@ -16,8 +16,8 @@
 	"lang": "en-US",
 	"name": "White Noise",
 	"short_name": "White Noise",
-	"scope": "https://white-noise.mwco.app/",
-	"start_url": "https://white-noise.mwco.app/",
+	"scope": "https://white-noise.gaia.ws/",
+	"start_url": "https://white-noise.gaia.ws/",
 	"description": "A simple application that generates soothing white noise to help you focus, relax, and sleep better.",
-	"id": "https://white-noise.mwco.app/"
+	"id": "https://white-noise.gaia.ws/"
 }
